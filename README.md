@@ -6,9 +6,18 @@
 
 This project analyzes an e-commerce dataset to understand customer behavior, identify key revenue drivers, evaluate product performance, and study delivery impact using SQL, Python, Excel, and Power BI.
 Includes statistical testing and interactive dashboards for decision-making.
-
 ---
 ## 🛠️ Tools & Technologies
+
+- **SQL: ** Data cleaning, joins, aggregations, cohort & RFM analysis
+- **Python: ** EDA, data merging, stats
+- **Excel: ** Initial cleaning & pivot summaries
+- **Power BI: ** Final dashboard with KPIs
+- **Statistics: ** t-test, chi-square test, correlation analysi
+
+
+---
+## 🗂️ Dataset Structure
 
 - **customers.csv**
 - **orders.csv**
