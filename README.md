@@ -34,7 +34,7 @@ Includes statistical testing and interactive dashboards for decision-making.
 
 1. **Excel Data Cleaning:**
   - Removed duplicates, fixed date formats, handled nulls
-  - Basic pivot analysis**
+  - Basic pivot analysis
 2. **SQL Analysis**
   - Monthly revenue trends
   - Top products & categories
