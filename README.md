@@ -13,11 +13,11 @@ Includes statistical testing and interactive dashboards for decision-making.
 ---
 ## 🛠️ Tools & Technologies
 
-- **SQL: ** Data cleaning, joins, aggregations, cohort & RFM analysis
-- **Python: ** EDA, data merging, stats
-- **Excel: ** Initial cleaning & pivot summaries
-- **Power BI: ** Final dashboard with KPIs
-- **Statistics: ** t-test, chi-square test, correlation analysi
+- **SQL:** Data cleaning, joins, aggregations, cohort & RFM analysis
+- **Python:** EDA, data merging, stats
+- **Excel:** Initial cleaning & pivot summaries
+- **Power BI:** Final dashboard with KPIs
+- **Statistics:** t-test, chi-square test, correlation analysi
 
 
 ---
