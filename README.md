@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Customer-Insights
+# E-Commerce-Sales & Customer-Insights
 
 ---
 
