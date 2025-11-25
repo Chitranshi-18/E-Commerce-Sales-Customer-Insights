@@ -66,12 +66,12 @@ Includes statistical testing and interactive dashboards for decision-making.
 
 ---
 
-##🔍 Insights Generated
+## 🔍 Insights Generated
 - **Identified top 10 revenue-generating categories**
 - **Analyzed churn patterns using RFM segmentation**
 - **Found statistical significance between discount & sales lift**
 - **Delivery speed heavily impacted customer rating**
-- **Discovered 20% customers contribute 65% revenue (Pareto)**
+- **Discovered 20% customers contribute 65% revenue **
 
 
 ---
