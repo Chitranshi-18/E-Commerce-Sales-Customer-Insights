@@ -4,9 +4,8 @@
 
 ## 📘 Overview
 
-This project analyzes an e-commerce business to uncover insights about sales performance, customer behavior, product trends, and delivery impact.
-It uses SQL, Python, Excel, Statistics, and Power BI to build a complete end-to-end Data Analytics workflow.
-
+This project analyzes an e-commerce dataset to understand customer behavior, identify key revenue drivers, evaluate product performance, and study delivery impact using SQL, Python, Excel, and Power BI.
+Includes statistical testing and interactive dashboards for decision-making.
 
 ---
 ## 🛠️ Tools & Technologies
