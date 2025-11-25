@@ -17,7 +17,7 @@ Includes statistical testing and interactive dashboards for decision-making.
 - **Python:** EDA, data merging, stats
 - **Excel:** Initial cleaning & pivot summaries
 - **Power BI:** Final dashboard with KPIs
-- **Statistics:** t-test, chi-square test, correlation analysi
+- **Statistics:** t-test, chi-square test, correlation analysis
 
 
 ---
@@ -71,7 +71,7 @@ Includes statistical testing and interactive dashboards for decision-making.
 - **Analyzed churn patterns using RFM segmentation**
 - **Found statistical significance between discount & sales lift**
 - **Delivery speed heavily impacted customer rating**
-- **Discovered 20% customers contribute 65% revenue **
+- **Discovered 20% customers contribute 65% revenue**
 
 
 ---
