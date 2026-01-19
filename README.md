@@ -6,30 +6,31 @@
 
 
 
-This project analyzes an e-commerce dataset to understand customer behavior, identify key revenue drivers, evaluate product performance, and study delivery impact using SQL, Python, Excel, and Power BI.
-Includes statistical testing and interactive dashboards for decision-making.
+This project analyzes an e-commerce transactional dataset to understand customer purchasing behavior, identify high-value customers, and evaluate sales performance using Python and Power BI. The focus is on business metrics such as AOV, CLV, RFM segmentation, and revenue concentration patterns.
 
 
 ---
 ## 🛠️ Tools & Technologies
 
-- **SQL:** Data cleaning, joins, aggregations, cohort & RFM analysis
-- **Python:** EDA, data merging, stats
-- **Excel:** Initial cleaning & pivot summaries
-- **Power BI:** Final dashboard with KPIs
-- **Statistics:** t-test, chi-square test, correlation analysis
+- **Python** : (Pandas, NumPy, Matplotlib) – Data cleaning, EDA, customer metrics
+- **Power BI** : Interactive dashboards and KPI visualization
+- **Statistics (Descriptive)**: Trend and distribution analysis
 
 
 ---
 ## 🗂️ Dataset Structure
 
-- **customers.csv**
-- **orders.csv**
-- **order_items.csv**
-- **products.csv**
-- **delivery.csv**
+- **Source:** Kaggle – E-Commerce Sales Dataset
+- **Type**: Single transactional dataset containing: 
+    - Invoice ID
+    - Customer ID
+    - Product details
+    - Quantity & price
+    - Transaction date
 
 
+
+---
 ## 🚀 Project Workflow
 
 1. **Excel Data Cleaning:**
