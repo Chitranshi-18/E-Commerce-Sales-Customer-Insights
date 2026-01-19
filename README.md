@@ -34,29 +34,29 @@ This project analyzes an e-commerce transactional dataset to understand customer
 ## 🚀 Project Workflow
 
 1. **Data Cleaning (Python):**
-  - Removed cancelled and invalid transactions
-  - Converted date columns to datetime format
-  - Created revenue feature (Quantity × UnitPrice)
+      - Removed cancelled and invalid transactions
+      - Converted date columns to datetime format
+      - Created revenue feature (Quantity × UnitPrice)
 
 2. **Sales & Customer Metrics**
-  - Average Order Value (AOV)
-  - Customer Lifetime Value (CLV)
-  - Purchase frequency per customer
+      - Average Order Value (AOV)
+      - Customer Lifetime Value (CLV)
+      - Purchase frequency per customer
 
 3. **RFM Analysis**
-  - Calculated **Recency, Frequency, Monetary** metrics
-  - Segmented customers into RFM score groups
-  - Identified high-value and at-risk customer segments
+      - Calculated **Recency, Frequency, Monetary** metrics
+      - Segmented customers into RFM score groups
+      - Identified high-value and at-risk customer segments
 
 4. **Revenue Concentration Analysis**
-  - Applied Pareto analysis
-  - Found that ~20–30% of customers contribute ~65–70% of total revenue
+      - Applied Pareto analysis
+      - Found that ~20–30% of customers contribute ~65–70% of total revenue
 
 5. **Power BI Dashboard**
-  - Sales KPIs (Revenue, Orders, AOV)
-  - Customer segmentation (RFM & CLV)
-  - Revenue trends over time
-  - Top customers and contribution analysis
+      - Sales KPIs (Revenue, Orders, AOV)
+      - Customer segmentation (RFM & CLV)
+      - Revenue trends over time
+      - Top customers and contribution analysis
   
 ---
 
