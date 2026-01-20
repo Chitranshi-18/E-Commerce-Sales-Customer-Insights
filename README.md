@@ -31,15 +31,16 @@ This project analyzes an e-commerce transactional dataset to understand customer
 
 ```
 E-Commerce-Sales-Customer-Insights/
-├── data/ # CSV datasets (raw and cleaned)
+├── data/
 │ └── ecommerce_data.csv
-├── python/ # Python notebooks for analysis
-│ ├── 01_Data_Cleaning.ipynb
-│ ├── 02_Customer_Metrics.ipynb
-│ └── 03_RFM_Analysis.ipynb
-├── results/ # Output CSVs, charts, and metrics
-├── power_bi/ # Power BI dashboards
-└── README.md # Project overview and instructions
+├── notebooks
+│ └── ECommerce_Customer_Insights
+├── outputs
+│ ├── cleaned_sales.csv
+│ ├── clv.csv
+│ └── rfm.csv
+├── power_bi/
+└── README.md
 ```
 ---
 ## 🚀 Project Workflow
