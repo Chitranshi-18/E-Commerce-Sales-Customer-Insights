@@ -39,7 +39,7 @@ E-Commerce-Sales-Customer-Insights/
 │ ├── cleaned_sales.csv
 │ ├── clv.csv
 │ └── rfm.csv
-├── power_bi/
+├── power_bi/# Power BI dashboards
 └── README.md
 ```
 ---
